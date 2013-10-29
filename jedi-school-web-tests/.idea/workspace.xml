@@ -21,6 +21,7 @@
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/support/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000061103" ignored="false" />
     <file path="/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000061103" ignored="false" />
     <file path="/jedi_master_v2_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383020311622" ignored="false" />
+    <file path="/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383020847623" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +50,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_login_spec.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="user_login_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_login_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="27" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5777461">
+            <state line="27" column="27" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="42" selection-start="59" selection-end="59" vertical-scroll-proportion="0.021398002">
               <folding />
             </state>
           </provider>
@@ -84,6 +94,7 @@
         <option value="$PROJECT_DIR$/jedi_master_spec.rb" />
         <option value="$PROJECT_DIR$/jedi_master_v2_spec.rb" />
         <option value="$PROJECT_DIR$/user_login_spec.rb" />
+        <option value="$PROJECT_DIR$/readme.txt" />
       </list>
     </option>
   </component>
@@ -400,7 +411,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user_login_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="27" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5777461">
+        <state line="27" column="27" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="42" selection-start="59" selection-end="59" vertical-scroll-proportion="0.021398002">
           <folding />
         </state>
       </provider>

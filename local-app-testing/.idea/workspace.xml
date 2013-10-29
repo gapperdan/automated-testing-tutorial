@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="297fe05d-4a23-477f-83b1-c9851a943ae0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/local-app-testing.iml" afterPath="$PROJECT_DIR$/.idea/local-app-testing.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="297fe05d-4a23-477f-83b1-c9851a943ae0" name="Default" comment="" />
     <ignored path="local-app-testing.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/open_page_spec.rb" changelist="297fe05d-4a23-477f-83b1-c9851a943ae0" time="1382587666859" ignored="false" />
@@ -47,6 +42,8 @@
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/support/env.rb" changelist="297fe05d-4a23-477f-83b1-c9851a943ae0" time="1383000061103" ignored="false" />
     <file path="/env.rb" changelist="297fe05d-4a23-477f-83b1-c9851a943ae0" time="1383000061103" ignored="false" />
     <file path="/jedi_master_v2_spec.rb" changelist="297fe05d-4a23-477f-83b1-c9851a943ae0" time="1383020311622" ignored="false" />
+    <file path="/readme.txt" changelist="297fe05d-4a23-477f-83b1-c9851a943ae0" time="1383020847623" ignored="false" />
+    <file path="$PROJECT_DIR$/../jedi-school-web-tests/readme.txt" changelist="297fe05d-4a23-477f-83b1-c9851a943ae0" time="1383020873942" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
