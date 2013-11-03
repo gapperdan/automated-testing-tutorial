@@ -21,9 +21,9 @@
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/support/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000061103" ignored="false" />
     <file path="/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000061103" ignored="false" />
     <file path="/jedi_master_v2_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383020311622" ignored="false" />
-    <file path="/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383334215745" ignored="false" />
+    <file path="/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383500321841" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/jedi-school-web/.idea/workspace.xml" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383092713896" ignored="false" />
-    <file path="/login_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383457708665" ignored="false" />
+    <file path="/login_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513216442" ignored="false" />
     <file path="/page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383456290937" ignored="false" />
     <file path="/user_login_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459613592" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/views/login.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383088334023" ignored="false" />
@@ -48,22 +48,24 @@
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/foo_tix_controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383446165939" ignored="false" />
     <file path="/foo_tix_controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383349747816" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/docs/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383334216984" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/ticket_buy.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383348387598" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/ticket_buy.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383511316009" ignored="false" />
     <file path="/ticket_buy.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383348307963" ignored="false" />
-    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/login_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383457710618" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/login_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513216442" ignored="false" />
     <file path="$PROJECT_DIR$/../foo-tickets-web-test/spec/user_login_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383439680850" ignored="false" />
     <file path="$PROJECT_DIR$/../foo-tickets-web-test/jedi_master_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383439345749" ignored="false" />
     <file path="$PROJECT_DIR$/../foo-tickets-web-test/foo_helper.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383439345749" ignored="false" />
     <file path="$PROJECT_DIR$/../foo-tickets-web-test/user_login_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383444646025" ignored="false" />
     <file path="/load_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383444988426" ignored="false" />
     <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/load_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383444988426" ignored="false" />
-    <file path="$PROJECT_DIR$/../foo-tickets-web-test/foo_tix_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459621331" ignored="false" />
-    <file path="/foo_tix_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383446914674" ignored="false" />
-    <file path="/ticket_list_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383460728517" ignored="false" />
-    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/ticket_list_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383460737475" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/foo_tix_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513156640" ignored="false" />
+    <file path="/foo_tix_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513200506" ignored="false" />
+    <file path="/ticket_list_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513212242" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/ticket_list_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513212242" ignored="false" />
     <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383457607994" ignored="false" />
-    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/ticket_buy_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459677907" ignored="false" />
-    <file path="/ticket_buy_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459667565" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/ticket_buy_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513207435" ignored="false" />
+    <file path="/ticket_buy_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513207435" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383500321841" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/spec/foo_tix_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513200506" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,8 +213,8 @@
     <property name="options.lastSelected" value="fileColors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -368,7 +370,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30349344" sideWeight="0.6707819" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30786026" sideWeight="0.6707819" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />

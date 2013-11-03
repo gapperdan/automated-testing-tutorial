@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'selenium-webdriver'
-require './pages/page'
+require '../pages/page'
 
 class LoginPage < Page
 

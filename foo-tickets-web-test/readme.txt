@@ -1,2 +1,2 @@
 to run the test:
-$ rspec user_login_spec.rb --format nested
+$ rspec foo_tix_spec.rb --format nested
