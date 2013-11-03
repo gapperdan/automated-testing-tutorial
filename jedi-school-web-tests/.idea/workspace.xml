@@ -11,7 +11,7 @@
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/jedi-school-web/views/knight.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1382983005871" ignored="false" />
     <file path="/jedi_master_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1382998963511" ignored="false" />
     <file path="/helper.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1382997951650" ignored="false" />
-    <file path="/temp.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1382991596203" ignored="false" />
+    <file path="/temp.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383439345749" ignored="false" />
     <file path="/jedi_knight_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1382998148477" ignored="false" />
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/feature_files/option_features/create_option.feature" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000013266" ignored="false" />
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/step_definitions/rfq_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000013266" ignored="false" />
@@ -21,7 +21,49 @@
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/support/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000061103" ignored="false" />
     <file path="/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000061103" ignored="false" />
     <file path="/jedi_master_v2_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383020311622" ignored="false" />
-    <file path="/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383020847623" ignored="false" />
+    <file path="/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383334215745" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/jedi-school-web/.idea/workspace.xml" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383092713896" ignored="false" />
+    <file path="/login_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383457708665" ignored="false" />
+    <file path="/page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383456290937" ignored="false" />
+    <file path="/user_login_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459613592" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/views/login.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383088334023" ignored="false" />
+    <file path="/login.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383334319978" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/main-controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383092709096" ignored="false" />
+    <file path="/main-controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383293269178" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/docs/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383088838779" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/views/storefront.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383092690660" ignored="false" />
+    <file path="/storefront.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383092690234" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/css/foo.css" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383090608928" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/public/stylesheets/foo.css" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383092006346" ignored="false" />
+    <file path="/foo.css" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383091968891" ignored="false" />
+    <file path="/a.dummy" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383165562513" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/login.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383334319978" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/main.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383287291597" ignored="false" />
+    <file path="/main.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383292608352" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/main-controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383293347480" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/ticket_list.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459348448" ignored="false" />
+    <file path="/ticket_list.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383349787842" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/models/ticket.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383331326589" ignored="false" />
+    <file path="/ticket.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383331325811" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/foo_tix_controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383446165939" ignored="false" />
+    <file path="/foo_tix_controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383349747816" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/docs/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383334216984" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/ticket_buy.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383348387598" ignored="false" />
+    <file path="/ticket_buy.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383348307963" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/login_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383457710618" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/spec/user_login_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383439680850" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/jedi_master_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383439345749" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/foo_helper.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383439345749" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/user_login_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383444646025" ignored="false" />
+    <file path="/load_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383444988426" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/load_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383444988426" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/foo_tix_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459621331" ignored="false" />
+    <file path="/foo_tix_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383446914674" ignored="false" />
+    <file path="/ticket_list_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383460728517" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/ticket_list_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383460737475" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383457607994" ignored="false" />
+    <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/ticket_buy_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459677907" ignored="false" />
+    <file path="/ticket_buy_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383459667565" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +86,34 @@
       <file leaf-file-name="jedi_master_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jedi_master_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="43" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+            <state line="5" column="42" selection-start="89" selection-end="131" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_login_spec.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="user_login_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user_login_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="27" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
+            <state line="24" column="3" selection-start="777" selection-end="777" vertical-scroll-proportion="0.51355207">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login_page.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/login_page.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="28" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="42" selection-start="59" selection-end="59" vertical-scroll-proportion="0.021398002">
+            <state line="1" column="42" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -71,7 +122,7 @@
       <file leaf-file-name="jedi_helper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jedi_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,12 +140,14 @@
       <list>
         <option value="$PROJECT_DIR$/login_spec.rb" />
         <option value="$PROJECT_DIR$/helper.rb" />
-        <option value="$PROJECT_DIR$/jedi_helper.rb" />
         <option value="$PROJECT_DIR$/jedi_knight_spec.rb" />
         <option value="$PROJECT_DIR$/jedi_master_spec.rb" />
         <option value="$PROJECT_DIR$/jedi_master_v2_spec.rb" />
-        <option value="$PROJECT_DIR$/user_login_spec.rb" />
         <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/pages/page.rb" />
+        <option value="$PROJECT_DIR$/user_login_spec.rb" />
+        <option value="$PROJECT_DIR$/jedi_helper.rb" />
+        <option value="$PROJECT_DIR$/pages/login_page.rb" />
       </list>
     </option>
   </component>
@@ -130,7 +183,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,14 +191,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jedi-school-web-tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jedi-school-web-tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -157,10 +209,10 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="fileColors" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -282,6 +334,24 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6d56627f-c95c-4439-906d-a46e450ce752" name="Default" comment="" />
@@ -296,10 +366,9 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27292576" sideWeight="0.6707819" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30349344" sideWeight="0.6707819" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -308,6 +377,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -374,6 +444,55 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jedi_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="42" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedi_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedi_master_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="43" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_login_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="27" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="42" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedi_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jedi_master_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -395,30 +514,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jedi_master_spec.rb">
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs193/class.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="43" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="138" column="13" selection-start="4671" selection-end="4671" vertical-scroll-proportion="2.9445236" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jedi_helper.rb">
+    <entry file="file://$PROJECT_DIR$/jedi_master_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
+        <state line="5" column="42" selection-start="89" selection-end="131" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user_login_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="27" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
+        <state line="24" column="3" selection-start="777" selection-end="777" vertical-scroll-proportion="0.51355207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="28" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="42" selection-start="59" selection-end="59" vertical-scroll-proportion="0.021398002">
+        <state line="1" column="42" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedi_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

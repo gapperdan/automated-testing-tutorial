@@ -1,7 +1,6 @@
 module JediHelper
 
-  #urls
-  WEB_URL = "http://localhost:9393"
+
 
   #page titles
   PAGE_LOGIN_TITLE = "Jedi Academy"
@@ -15,13 +14,7 @@ module JediHelper
   LOGIN_JEDI_KNIGHT_USERNAME = 'obi-wan'
   LOGIN_JEDI_PADAWAN_USERNAME = 'anakin'
 
-  #names
-  NAME_USERNAME = 'username'
-  NAME_PASSWORD = 'password'
-  NAME_SUBMIT = 'submit'
-
   #ids
-  ID_PAGE_HDR = 'page_hdr'
 
   #texts
   TEXT_LOGOUT = 'logout'
