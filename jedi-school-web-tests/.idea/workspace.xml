@@ -47,7 +47,7 @@
     <file path="/ticket.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383331325811" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/foo_tix_controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383446165939" ignored="false" />
     <file path="/foo_tix_controller.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383349747816" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/docs/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383334216984" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/docs/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513622070" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/ticket_buy.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383511316009" ignored="false" />
     <file path="/ticket_buy.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383348307963" ignored="false" />
     <file path="$PROJECT_DIR$/../foo-tickets-web-test/pages/login_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513216442" ignored="false" />

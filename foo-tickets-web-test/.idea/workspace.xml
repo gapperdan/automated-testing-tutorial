@@ -73,10 +73,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="foo_tix_spec.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="foo_tix_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/foo_tix_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="11" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
+            <state line="3" column="11" selection-start="75" selection-end="75" vertical-scroll-proportion="0.06401138">
               <folding />
             </state>
           </provider>
@@ -109,10 +109,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="6" selection-start="113" selection-end="113" vertical-scroll-proportion="0.2347084">
+            <state line="11" column="6" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -243,6 +243,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jedi-school-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foo-tickets-web-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -581,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/foo_tix_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="11" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/ticket_buy_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="11" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
@@ -611,7 +618,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="113" selection-end="113" vertical-scroll-proportion="0.2347084">
+        <state line="11" column="6" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/foo_tix_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="11" selection-start="75" selection-end="75" vertical-scroll-proportion="0.06401138">
           <folding />
         </state>
       </provider>
