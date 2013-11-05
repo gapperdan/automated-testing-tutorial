@@ -59,5 +59,3 @@ describe 'the foo tix website' do
     @@browser.close
   end
 end
-
-
