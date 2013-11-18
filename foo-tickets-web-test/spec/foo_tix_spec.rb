@@ -37,9 +37,11 @@ describe 'the foo tix website' do
     @ticket_list_page = TicketListPage.new
     @ticket_list_page.title.should == TICKET_LIST_PAGE_TITLE
     @ticket_list_page.ticket_count.should == NBR_AVAIL_TICKETS
-    @ticket_list_page.click_link(BUY_ARTIST_ROW_NBR)
-  end
+    #@ticket_list_page.close
 
+    #@ticket_list_page.click_link(BUY_ARTIST_ROW_NBR)
+  end
+  #
   it 'should let me purchase the ticket I want when I click the Buy link' do
     @ticket_buy_page = TicketBuyPage.new
     @ticket_buy_page.artist.should == BUY_ARTIST
@@ -50,10 +52,10 @@ describe 'the foo tix website' do
     @ticket_buy_page.pay_by_credit_card
   end
 
-  it 'should show me the list of available tickets is 1 less' do
-    @ticket_list_page = TicketListPage.new
-    @ticket_list_page.ticket_count.to_i.should == NBR_AVAIL_TICKETS.to_i - 1
-  end
+  #it 'should show me the list of available tickets is 1 less' do
+  #  @ticket_list_page = TicketListPage.new
+  #  @ticket_list_page.ticket_count.to_i.should == NBR_AVAIL_TICKETS.to_i - 1
+  #end
 
   after(:all) do
     @@browser.close
