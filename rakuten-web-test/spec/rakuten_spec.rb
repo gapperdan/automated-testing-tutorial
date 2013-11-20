@@ -27,6 +27,7 @@ describe 'the Rakuten website' do
     @search_result_page = @home_page.search(SEARCH_TEXT)
       .nbr_result.should == SEARCH_RESULT_COUNT
 
+	  #sleep 5
     SearchResultPage.new(@@browser)
       .click(RESULT_DETAIL_TEXT)
       .name.should == RESULT_DETAIL_TEXT
@@ -45,7 +46,7 @@ describe 'the Rakuten website' do
       .add_to_cart
       .continue_shopping
 
-    sleep 5
+    sleep 5 #need to wait here, there's an ajax update to the cart
     @home_page.items_in_cart.should == ITEMS_IN_CART_COUNT
   end
 

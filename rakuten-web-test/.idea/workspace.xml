@@ -36,7 +36,7 @@
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/css/foo.css" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383090608928" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-store-web/public/stylesheets/foo.css" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383092006346" ignored="false" />
     <file path="/foo.css" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383091968891" ignored="false" />
-    <file path="/a.dummy" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383165562513" ignored="false" />
+    <file path="/a.dummy" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384972061728" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/login.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383334319978" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web/views/main.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383287291597" ignored="false" />
     <file path="/main.erb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383292608352" ignored="false" />
@@ -57,8 +57,8 @@
     <file path="/home_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384748394175" ignored="false" />
     <file path="/oscommerce_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384738114160" ignored="false" />
     <file path="/search_result_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384736205893" ignored="false" />
-    <file path="/rakuten_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384747943166" ignored="false" />
-    <file path="/product_detail_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384748004534" ignored="false" />
+    <file path="/rakuten_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384972285910" ignored="false" />
+    <file path="/product_detail_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384971983705" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <file leaf-file-name="rakuten_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/rakuten_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="28" selection-start="1287" selection-end="1300" vertical-scroll-proportion="0.75982535">
+            <state line="48" column="66" selection-start="1338" selection-end="1338" vertical-scroll-proportion="0.532294">
               <folding />
             </state>
           </provider>
@@ -90,7 +90,7 @@
       <file leaf-file-name="product_detail_page.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/product_detail_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="42" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+            <state line="31" column="41" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,7 +99,7 @@
       <file leaf-file-name="search_result_page.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/search_result_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="21" selection-start="413" selection-end="430" vertical-scroll-proportion="0.0">
+            <state line="20" column="66" selection-start="359" selection-end="528" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,7 +117,7 @@
       <file leaf-file-name="home_page.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="100" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0">
+            <state line="25" column="14" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -153,11 +153,11 @@
         <option value="$PROJECT_DIR$/pages/ticket_buy_page.rb" />
         <option value="$PROJECT_DIR$/pages/ticket_list_page.rb" />
         <option value="$PROJECT_DIR$/pages/login_page.rb" />
-        <option value="$PROJECT_DIR$/pages/search_result_page.rb" />
         <option value="$PROJECT_DIR$/spec/oscommerce_spec.rb" />
-        <option value="$PROJECT_DIR$/spec/rakuten_spec.rb" />
+        <option value="$PROJECT_DIR$/pages/search_result_page.rb" />
         <option value="$PROJECT_DIR$/pages/product_detail_page.rb" />
         <option value="$PROJECT_DIR$/pages/home_page.rb" />
+        <option value="$PROJECT_DIR$/spec/rakuten_spec.rb" />
       </list>
     </option>
   </component>
@@ -245,34 +245,6 @@
               <option name="myItemId" value="rakuten-web-test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jedi-school-web-tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rakuten-web-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jedi-school-web-tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rakuten-web-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -284,8 +256,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sinatra-tutorial/foo-tickets-web" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -442,13 +414,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="823" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32692307" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32281205" sideWeight="0.6717033" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32783356" sideWeight="0.6730769" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -457,7 +430,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282967" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -524,6 +496,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20" selection-start="17" selection-end="56" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/search_result_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="16" selection-start="254" selection-end="264" vertical-scroll-proportion="0.0">
@@ -599,30 +578,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/product_detail_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="42" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/search_result_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="21" selection-start="413" selection-end="430" vertical-scroll-proportion="0.0">
+        <state line="20" column="66" selection-start="359" selection-end="528" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/home_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="100" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0">
+        <state line="25" column="14" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/product_detail_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="41" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/rakuten_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="28" selection-start="1287" selection-end="1300" vertical-scroll-proportion="0.75982535">
+        <state line="48" column="66" selection-start="1338" selection-end="1338" vertical-scroll-proportion="0.532294">
           <folding />
         </state>
       </provider>

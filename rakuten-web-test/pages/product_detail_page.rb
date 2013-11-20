@@ -22,7 +22,10 @@ class ProductDetailPage < Page
   end
 
   def continue_shopping
-    sleep 5 #wait for the pop-up to appear
+    #sleep 5 #wait for the pop-up to appear
+    # wait for a specific element to show up
+    wait = Selenium::WebDriver::Wait.new(:timeout => 5) # seconds
+    wait.until { @driver.find_element(:xpath, CONTINUE_SHOPPING_XPATH) }
     @driver.find_element(:xpath, CONTINUE_SHOPPING_XPATH).click
   end
 
