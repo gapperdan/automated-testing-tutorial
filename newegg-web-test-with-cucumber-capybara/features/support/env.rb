@@ -11,3 +11,4 @@ Capybara.default_driver = :selenium
 #-- include these pages
 require File.join(File.dirname(__FILE__), '../../pages/page')
 require File.join(File.dirname(__FILE__), '../../pages/home_page')
+require File.join(File.dirname(__FILE__), '../../pages/search_result_page')

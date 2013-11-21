@@ -1,4 +1,4 @@
-Feature: Searching for products on the Newegg website
+Feature: As as customer, I want to go the Newegg website and search for a product I'm interested in
 
 Scenario: Go to the Newegg website and search for a product
     Given I open the browser and go to Newegg homepage
