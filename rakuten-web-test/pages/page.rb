@@ -12,4 +12,8 @@ class Page
     @@browser.title
   end
 
+  def page
+    Capybara.current_session
+  end
+
 end
