@@ -19,7 +19,7 @@
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/step_definitions/rest_post_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000013266" ignored="false" />
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/step_definitions/login_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000013266" ignored="false" />
     <file path="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/support/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383000061103" ignored="false" />
-    <file path="/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385061430510" ignored="false" />
+    <file path="/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385155144821" ignored="false" />
     <file path="/jedi_master_v2_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383020311622" ignored="false" />
     <file path="/readme.txt" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383500321842" ignored="false" />
     <file path="$PROJECT_DIR$/../../sinatra-tutorial/jedi-school-web/.idea/workspace.xml" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383092713896" ignored="false" />
@@ -54,9 +54,9 @@
     <file path="/foo_tix_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513200506" ignored="false" />
     <file path="/ticket_list_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513212242" ignored="false" />
     <file path="/ticket_buy_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1383513207435" ignored="false" />
-    <file path="/home_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385069388554" ignored="false" />
+    <file path="/home_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385156954181" ignored="false" />
     <file path="/oscommerce_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384738114160" ignored="false" />
-    <file path="/search_result_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385070621348" ignored="false" />
+    <file path="/search_result_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385158983460" ignored="false" />
     <file path="/rakuten_spec.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384972285910" ignored="false" />
     <file path="/product_detail_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384971983705" ignored="false" />
     <file path="$PROJECT_DIR$/../rakuten-web-test-with-cucumber-capybara/features/support/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384991028730" ignored="false" />
@@ -67,14 +67,19 @@
     <file path="/browsing.feature" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384987015732" ignored="false" />
     <file path="/browsing_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384996592248" ignored="false" />
     <file path="$PROJECT_DIR$/../rakuten-web-test-with-cucumber-capybara/features/step_definitions/searching_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1384996622324" ignored="false" />
-    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/pages/home_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385070842385" ignored="false" />
-    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/features/searching.feature" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385069372227" ignored="false" />
-    <file path="/searching.feature" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385069290050" ignored="false" />
-    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/features/step_definitions/searching_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385074430841" ignored="false" />
-    <file path="/searching_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385074430841" ignored="false" />
-    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/features/support/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385074378548" ignored="false" />
-    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/pages/search_result_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385070879371" ignored="false" />
-    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/pages/page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385061297392" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/pages/home_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385156954181" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/features/searching.feature" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385155799293" ignored="false" />
+    <file path="/searching.feature" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385155684185" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/features/step_definitions/searching_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385149409244" ignored="false" />
+    <file path="/searching_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385149363685" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/features/support/env.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385157276300" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/pages/search_result_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385159280834" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/pages/page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385156626622" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/features/step_definitions/navigating_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385158757073" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/features/step_definitions/common_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385158761441" ignored="false" />
+    <file path="/navigating_steps.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385158680236" ignored="false" />
+    <file path="$PROJECT_DIR$/../newegg-web-test-with-cucumber-capybara/pages/category_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385154958606" ignored="false" />
+    <file path="/category_page.rb" changelist="6d56627f-c95c-4439-906d-a46e450ce752" time="1385154797000" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,16 +239,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,6 +273,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,8 +291,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -450,7 +455,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33787662" sideWeight="0.6721763" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34289813" sideWeight="0.6721763" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />

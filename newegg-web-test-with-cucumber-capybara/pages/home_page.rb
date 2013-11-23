@@ -10,6 +10,13 @@ module PageModule
       PageModule::SearchResultPage.new(search_term)
     end
 
+    def navigate(path)
+      path.each {|one_path| find_link(one_path).click}
+
+      #return an instance of the SearchResultPage
+      PageModule::SearchResultPage.new(nil)
+    end
+
   end
 
 end

@@ -6,14 +6,16 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/a.dummy" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385002983301" ignored="false" />
     <file path="/page.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385060973208" ignored="false" />
-    <file path="/home_page.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385069388554" ignored="false" />
+    <file path="/home_page.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385156954182" ignored="false" />
     <file path="/browsing.feature" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1384987015732" ignored="false" />
     <file path="/browsing_steps.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1384996592248" ignored="false" />
-    <file path="/env.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385080171244" ignored="false" />
+    <file path="/env.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385155144821" ignored="false" />
     <file path="$PROJECT_DIR$/../rakuten-web-test/pages/page.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1384990771792" ignored="false" />
-    <file path="/searching.feature" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385069290050" ignored="false" />
-    <file path="/searching_steps.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385074430841" ignored="false" />
-    <file path="/search_result_page.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385070621348" ignored="false" />
+    <file path="/searching.feature" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385155684185" ignored="false" />
+    <file path="/searching_steps.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385149363685" ignored="false" />
+    <file path="/search_result_page.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385158983460" ignored="false" />
+    <file path="/navigating_steps.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385158680236" ignored="false" />
+    <file path="/category_page.rb" changelist="6ddc8b0e-5124-41aa-98c9-6b3dacfca2c6" time="1385154797000" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
       <file leaf-file-name="searching.feature" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/searching.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="63" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
+            <state line="12" column="27" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -51,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_page.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home_page.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+            <state line="15" column="25" selection-start="395" selection-end="403" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -63,16 +65,34 @@
       <file leaf-file-name="search_result_page.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/search_result_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
+            <state line="38" column="3" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searching_steps.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="searching_steps.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/searching_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="21" selection-start="361" selection-end="380" vertical-scroll-proportion="0.23638968">
+            <state line="6" column="25" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigating_steps.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/navigating_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="3" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common_steps.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/common_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="3" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -81,7 +101,7 @@
       <file leaf-file-name="env.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/support/env.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="25" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,12 +119,15 @@
       <list>
         <option value="$PROJECT_DIR$/features/browsing.feature" />
         <option value="$PROJECT_DIR$/features/step_definitions/browsing_steps.rb" />
-        <option value="$PROJECT_DIR$/pages/page.rb" />
-        <option value="$PROJECT_DIR$/features/searching.feature" />
-        <option value="$PROJECT_DIR$/pages/home_page.rb" />
-        <option value="$PROJECT_DIR$/pages/search_result_page.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/searching_steps.rb" />
+        <option value="$PROJECT_DIR$/pages/category_page.rb" />
+        <option value="$PROJECT_DIR$/features/searching.feature" />
+        <option value="$PROJECT_DIR$/pages/page.rb" />
+        <option value="$PROJECT_DIR$/pages/home_page.rb" />
         <option value="$PROJECT_DIR$/features/support/env.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/navigating_steps.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/common_steps.rb" />
+        <option value="$PROJECT_DIR$/pages/search_result_page.rb" />
       </list>
     </option>
   </component>
@@ -176,6 +199,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rakuten-web-test-with-cucumber-capybara" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newegg-web-test-with-cucumber-capybara" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rakuten-web-test-with-cucumber-capybara" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newegg-web-test-with-cucumber-capybara" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step_definitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -186,8 +245,8 @@
     <property name="options.lastSelected" value="fileColors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../RubyMineWorkspace/tradestone-tests" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -336,9 +395,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25681493" sideWeight="0.6707989" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040173" sideWeight="0.6707989" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -347,7 +407,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292011" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -456,20 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/rubystubs193/class.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="138" column="13" selection-start="4671" selection-end="4671" vertical-scroll-proportion="0.41977078">
@@ -477,30 +522,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
+    <entry file="file://$PROJECT_DIR$/pages/page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/search_result_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/searching.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="63" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
+        <state line="3" column="8" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/searching_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="361" selection-end="380" vertical-scroll-proportion="0.23638968">
+        <state line="6" column="25" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/searching.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="27" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/navigating_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/common_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="3" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/search_result_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="3" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="395" selection-end="403" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>

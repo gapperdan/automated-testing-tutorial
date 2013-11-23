@@ -1,4 +1,4 @@
-#-- env.rb is automatically loaded - should be in the right path i.e., under /features/support
+#-- env.rb is automatically loaded first - should be in the right path i.e., under /features/support
 require 'rubygems'
 require 'capybara'
 require 'selenium-webdriver'
@@ -12,5 +12,3 @@ Capybara.default_driver = :selenium
 require File.join(File.dirname(__FILE__), '../../pages/page')
 require File.join(File.dirname(__FILE__), '../../pages/home_page')
 require File.join(File.dirname(__FILE__), '../../pages/search_result_page')
-
-

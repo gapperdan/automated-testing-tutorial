@@ -14,7 +14,7 @@
     </list>
     <ignored path="automated-testing-tutorial.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385059823511" ignored="false" />
+    <file path="/Dummy.txt" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385143696340" ignored="false" />
     <file path="/foo_tix_spec.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384730423413" ignored="false" />
     <file path="/a.dummy" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385002983301" ignored="false" />
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/support/hooks.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1383852101926" ignored="false" />
@@ -24,7 +24,7 @@
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/tradestone-tests/src/test/functional/logs/index.html" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1383785430815" ignored="false" />
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/tradestone-tests/.gradle/1.2/taskArtifacts/cache.properties.lock" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1383608204349" ignored="false" />
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/support/env.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1383865591496" ignored="false" />
-    <file path="/env.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385061430510" ignored="false" />
+    <file path="/env.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385155144821" ignored="false" />
     <file path="/ticket_buy_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1383630386002" ignored="false" />
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/tradestone-tests/src/test/functional/lib/pages/partial_pages/bom_table_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1383686326054" ignored="false" />
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/tradestone-tests/src/test/functional/features/step_definitions/set_up_quote_steps.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1383686326054" ignored="false" />
@@ -54,17 +54,22 @@
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/costing-tradestone-tests/src/test/functional/lib/pages/microstrategy_pages/style_option_cost_details_line_item_level_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384115123603" ignored="false" />
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/costing-tradestone-tests/src/test/functional/lib/components/browser.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384193073769" ignored="false" />
     <file path="$PROJECT_DIR$/../../RubyMineWorkspace/costing-tradestone-tests/src/test/functional/lib/pages/microstrategy_pages/microstrategy_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1383948240950" ignored="false" />
-    <file path="/home_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385069388553" ignored="false" />
+    <file path="/home_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385156954181" ignored="false" />
     <file path="/oscommerce_spec.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384744959823" ignored="false" />
-    <file path="/search_result_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385070621348" ignored="false" />
+    <file path="/search_result_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385158983460" ignored="false" />
     <file path="/readme.txt" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384738348974" ignored="false" />
     <file path="/product_detail_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384971983705" ignored="false" />
     <file path="/rakuten_spec.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384972285910" ignored="false" />
     <file path="/page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385060973208" ignored="false" />
     <file path="/browsing.feature" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384987015732" ignored="false" />
     <file path="/browsing_steps.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1384996592020" ignored="false" />
-    <file path="/searching.feature" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385069290050" ignored="false" />
-    <file path="/searching_steps.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385074430841" ignored="false" />
+    <file path="/searching.feature" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385155684185" ignored="false" />
+    <file path="/searching_steps.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385149363685" ignored="false" />
+    <file path="$PROJECT_DIR$/newegg-web-test-with-cucumber-capybara/features/step_definitions/navigating_steps.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385158757073" ignored="false" />
+    <file path="$PROJECT_DIR$/newegg-web-test-with-cucumber-capybara/features/step_definitions/common_steps.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385158761199" ignored="false" />
+    <file path="/navigating_steps.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385158680236" ignored="false" />
+    <file path="$PROJECT_DIR$/newegg-web-test-with-cucumber-capybara/pages/category_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385154958606" ignored="false" />
+    <file path="/category_page.rb" changelist="7b5c9baa-8c14-4971-b351-ea9afb485723" time="1385154796999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,8 +276,8 @@
     <property name="options.lastSelected" value="fileColors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/rakuten-web-test" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -425,7 +430,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2517934" sideWeight="0.99316627" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2553802" sideWeight="0.99316627" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />

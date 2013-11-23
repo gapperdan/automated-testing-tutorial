@@ -1,12 +1,3 @@
-HOMEPAGE_TITLE = 'Newegg.com - Computer Parts, Laptops, Electronics, and More!'
-HOMEPAGE_URL = 'http://www.newegg.com'
-
-Given(/^I open the browser and go to Newegg homepage$/) do
-  @homepage = PageModule::HomePage.new
-    .open(HOMEPAGE_URL)
-    .title == HOMEPAGE_TITLE
-end
-
 When /^I search for (.*)$/ do |search_term|
   @homepage = PageModule::HomePage.new
   @search_result_page = @homepage.search(search_term)

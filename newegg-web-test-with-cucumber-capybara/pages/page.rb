@@ -14,5 +14,6 @@ module PageModule
     def title
       @browser.title
     end
+
   end
 end
